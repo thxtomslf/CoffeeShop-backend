@@ -1,0 +1,48 @@
+{
+  "Anton": {
+    "Raf": {
+      "Volumes": [0.4, 0.5, 0.6],
+      "Prices": [120, 140, 150],
+      "Composition": ["whipped milk", "espresso", "syrup"]
+    },
+    "Latte": {
+      "Volumes": [0.3, 0.4, 0.5],
+      "Prices": [100, 120, 140],
+      "Composition": ["milk", "whipped milk", "espresso"]
+    },
+    "Cappuccino":{
+      "Volumes": [0.3, 0.4, 0.5],
+      "Prices": [100, 120, 140],
+      "Composition": ["whipped milk", "milk", "espresso"]
+    }
+  },
+  "Vladimir": {
+    "Espresso": {
+      "Volumes": [0.15, 0.2, 0.3],
+      "Prices": [80, 90, 100],
+      "Composition": ["arabica beans"]
+    },
+    "Americano": {
+      "Volumes": [0.2, 0.3, 0.4],
+      "Prices": [90, 110, 130],
+      "Composition": ["arabica beans"]
+    }
+  },
+  "Sergei": {
+    "Glasse": {
+      "Volumes": [0.3, 0.4, 0.6],
+      "Prices": [100, 120, 150],
+      "Composition": ["grated chocolate", "ice cream", "espresso"]
+    },
+    "Irish": {
+      "Volumes": [0.3, 0.4, 0.6],
+      "Prices": [140, 150, 170],
+      "Composition": ["whipped cream", "whisky", "espresso"]
+    },
+    "Mocha": {
+      "Volumes": [0.2, 0.4, 0.6],
+      "Prices": [130, 160, 190],
+      "Composition": ["whipped cream", "milk", "espresso", "chocolate"]
+    }
+  }
+}
